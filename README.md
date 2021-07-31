@@ -6,3 +6,4 @@ https://discuss.codechef.com/t/preparation-for-se-ses-dse-pp-interview-hack-with
 2) Graph Vs Tree- https://www.geeksforgeeks.org/difference-between-graph-and-tree/
 3) Javascript tutorial- https://www.tutorialspoint.com/javascript/index.htm
 4) System Design- https://www.geeksforgeeks.org/system-design-tutorial/
+5) Computer Networks- https://www.javatpoint.com/computer-network-tutorial
